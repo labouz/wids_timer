@@ -29,7 +29,6 @@ ui <- fluidPage(
 
            )
     )
-    #column(2)
   )
 )
 
